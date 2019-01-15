@@ -1,0 +1,13 @@
+{
+    "name": "apitester",
+    "version": "1.0.0",
+    "description": "dev purpose",
+    "main": "app.js",
+    "author": "freedom_gr",
+    "dependencies": {
+        "body-parser": "^1.18.3",
+        "cookie-parser": "^1.4.3",
+        "express": "^4.16.4",
+        "multer": "^1.4.1"
+    }
+}
